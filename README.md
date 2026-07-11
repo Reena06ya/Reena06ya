@@ -1,4 +1,4 @@
-## Hi there 👋 This is my GitHub README
+This is my GitHub README
 
 <!--
 **Reena06ya/Reena06ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
